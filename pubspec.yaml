@@ -24,7 +24,7 @@ dependencies:
   intl: ^0.19.0
   json_annotation: ^4.8.1
   loading_animation_widget: ^1.2.0+4
-  lottie: ^3.0.0
+  lottie: ^3.1.0
   segmented_button_slide: ^1.0.4
   stop_watch_timer: ^3.0.2
 
