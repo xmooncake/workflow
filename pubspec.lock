@@ -149,10 +149,10 @@ packages:
     dependency: "direct main"
     description:
       name: cherry_toast
-      sha256: "73ef46fc6e8ad835b2b71b5c57152d82d88ff44ca93733b8019b7dc7d175f164"
+      sha256: b5d7d40e4bbf0842af400da3670f55220873fd9dac40e54f1aa2c8fda7398518
       url: "https://pub.dev"
     source: hosted
-    version: "1.8.0"
+    version: "1.9.1"
   cli_util:
     dependency: transitive
     description:
