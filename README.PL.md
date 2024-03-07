@@ -39,10 +39,10 @@ Aplikacja została napisana około dwóch lat temu na specjalne życzenie klient
 
 <div align="center">
 
-![Image Description](readme/assets/images/1.png)ss
-![Image Description](readme/assets/images/2.png)
-![Image Description](readme/assets/images/3.png)
-![Image Description](readme/assets/images/4.png)
+![Image Description](assets/readme/images/1.png)ss
+![Image Description](assets/readme/images/2.png)
+![Image Description](assets/readme/images/3.png)
+![Image Description](assets/readme/images/4.png)
 
 </div>
 
@@ -51,11 +51,6 @@ Aplikacja została napisana około dwóch lat temu na specjalne życzenie klient
 <details>
 
 <summary>GIFy</summary>
-
-![Image Description](readme/assets/images/1.png)
-![Image Description](readme/assets/images/2.png)
-![Image Description](readme/assets/images/3.png)
-![Image Description](readme/assets/images/4.png)
 
 </details>
 
