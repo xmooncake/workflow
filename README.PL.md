@@ -1,19 +1,30 @@
 <div align='center'>
+
 <h1>Workflow</h1>
-</br>
+
+<br>
+
 <h3>"Workflow" to aplikacja Flutter zaprojektowana do zarządzania procesem pracy w usługach pralniczych poprzez monitorowanie i gromadzenie danych dotyczących prania klienta, oraz generowanie raportów na bieżąco dotyczących czasu obsługi i przerw w pracy magla.</h3>
-</br>
+
+<br>
 
 ### Nawigacja
 
 [Specyfikacja projektu](#specyfikacja-projektu) | [Prezentacja UI](#prezentacja-ui) | [Funkcjonalności](#funkcjonalności) | [Wykorzystane techologie](#wykorzystane-technologie)
 
 Przeczytaj w innym języku:
-</br>
+<br>
 
 ![PL](assets/readme/icons/icons8-poland-32.png)[](./README.PL.md) ![EN](./assets/readme/icons/icons8-usa-32.png)[](./README.md)
 
 </div>
+
+<br>
+
+> [!WARNING]
+> Ten projekt nie może być uruchomiony w obecnej postaci, ponieważ wymagane klucze API są powiązane z prywatnymi serwerami firmy, które nie mogą być udostępnione z powodu umów poufności.
+
+<br>
 
 ## Specyfikacja projektu
 
@@ -24,10 +35,6 @@ Integrując się z interfejsem API, aplikacja pobiera dane klienta i przesyła r
 
 Aplikacja została napisana około dwóch lat temu na specjalne życzenie klienta. Ponieważ wtedy korzystałem głównie z setState do wszystkiego, można sobie wyobrazić, jak nieczytelny i trudny do utrzymania był kod. Około roku temu został on przepisany, wykorzystując architekturę Bloc.
 </div>
-
-## UWAGA
-
-**Uwaga**: Ten projekt nie może być uruchomiony w obecnej postaci, ponieważ wymagane klucze API są powiązane z prywatnymi serwerami firmy, które nie mogą być udostępnione z powodu umów poufności.
 
 ## Prezentacja UI
 

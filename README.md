@@ -1,19 +1,30 @@
 <div align='center'>
+
 <h1>Workflow</h1>
-</br>
+
+<br>
+
 <h3>Workflow is a Flutter application designed for workflow management in laundry services by monitoring and collecting data on client laundry, through real-time reporting on service times and breaks.</h3>
-</br>
+
+<br>
 
 ### Navigation
 
 [Overview](#overview) | [UI Showcase](#ui-showcase) | [Features](#features) | [Technologies used](#technologies-used)
 
 Read in different languages:
-</br>
+<br>
 
 ![PL](assets/readme/icons/icons8-poland-32.png)[](./README.POLISH.md) ![EN](./assets/readme/icons/icons8-usa-32.png)[](./README.md)
 
 </div>
+
+<br>
+
+> [!WARNING]
+> This project cannot be run as is because the required API keys are connected to private company servers, which cannot be shared due to confidentiality agreements.
+
+<br>
 
 ## Overview
 
@@ -24,10 +35,6 @@ Integrating with an API, the application fetches client data and uploads reports
 
 The app was first written roughly two years ago per client's request, as I was using setState for everything back then you can imagine how unreadable and unmaintable it was. About a year ago it was rewritten using Bloc architecture.
 </div>
-
-## Important Notice
-
-**Please note**: This project cannot be run as is because the required API keys are connected to private company servers, which cannot be shared due to confidentiality agreements.
 
 ## UI Showcase
 
