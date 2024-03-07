@@ -19,11 +19,10 @@ Read in different languages:
 </div>
 
 <br>
+<br>
 
 > [!WARNING]
 > This project cannot be run as is because the required API keys are connected to private company servers, which cannot be shared due to confidentiality agreements.
-
-<br>
 
 ## Overview
 
@@ -34,6 +33,8 @@ Integrating with an API, the application fetches client data and uploads reports
 
 The app was first written roughly two years ago per client's request, as I was using setState for everything back then you can imagine how unreadable and unmaintable it was. About a year ago it was rewritten using Bloc architecture.
 </div>
+
+<br>
 
 ## UI Showcase
 
@@ -63,6 +64,8 @@ The app was first written roughly two years ago per client's request, as I was u
 
 </details>
 
+<br>
+
 ## Features
 
 - **Client Data Integration**: Fetches client information from an API for easy access.
@@ -70,6 +73,8 @@ The app was first written roughly two years ago per client's request, as I was u
 - **Break Monitoring**: Keeps track of breaks, including how long they last and their reason.
 - **Data Reporting**: Sends reports on service times and breaks back to the management or for record-keeping.
 - **Local Storage for Incomplete Reports**: Utilizes local storage to save reports that have missing information. These can be completed and reviewed before being sent to the server, ensuring data accuracy and completeness.
+
+<br>
 
 ## Technologies Used
 

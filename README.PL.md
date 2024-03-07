@@ -35,6 +35,8 @@ Integrując się z interfejsem API, aplikacja pobiera dane klienta i przesyła r
 Aplikacja została napisana około dwóch lat temu na specjalne życzenie klienta. Ponieważ wtedy korzystałem głównie z setState do wszystkiego, można sobie wyobrazić, jak nieczytelny i trudny do utrzymania był kod. Około roku temu został on przepisany, wykorzystując architekturę Bloc.
 </div>
 
+<br>
+
 ## Prezentacja UI
 
 <details>
@@ -60,6 +62,8 @@ Aplikacja została napisana około dwóch lat temu na specjalne życzenie klient
 
 </details>
 
+<br>
+
 ## Funkcjonalności
 
 Aplikacja zapewnia następujące funkcjonalności:
@@ -69,6 +73,8 @@ Aplikacja zapewnia następujące funkcjonalności:
 - **Monitorowanie Przerw**: Utrzymuje śledzenie przerw, wliczając w to ich czas trwania i uzasadnienie.
 - **Raportowanie Danych**: Wysyła raporty dotyczące czasu obsługi i przerw do zarządzania lub w celu zachowania dokumentacji do dalszego wykorzystania po stronie serwera.
 - **Lokalne Przechowywanie Niekompletnych Raportów**: Wykorzystuje lokalne przechowywanie do zapisywania raportów z brakującymi informacjami. Mogą one zostać uzupełnione i sprawdzone przed przesłaniem na serwer, zapewniając dokładność i kompletność danych.
+
+<br>
 
 ## Wykorzystane technologie
 
