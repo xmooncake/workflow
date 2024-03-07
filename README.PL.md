@@ -20,11 +20,10 @@ Przeczytaj w innym języku:
 </div>
 
 <br>
+<br>
 
 > [!WARNING]
 > Ten projekt nie może być uruchomiony w obecnej postaci, ponieważ wymagane klucze API są powiązane z prywatnymi serwerami firmy, które nie mogą być udostępnione z powodu umów poufności.
-
-<br>
 
 ## Specyfikacja projektu
 

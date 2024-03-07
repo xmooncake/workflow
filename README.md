@@ -3,10 +3,9 @@
 <h1>Workflow</h1>
 
 <br>
+<br>
 
 <h3>Workflow is a Flutter application designed for workflow management in laundry services by monitoring and collecting data on client laundry, through real-time reporting on service times and breaks.</h3>
-
-<br>
 
 ### Navigation
 
