@@ -47,9 +47,18 @@ Aplikacja została napisana około dwóch lat temu na specjalne życzenie klient
 
 <div align="center">
 
-![Image Description](assets/readme/images/1.png)ss
+![Image Description](assets/readme/images/1.png)
+
+<br>
+
 ![Image Description](assets/readme/images/2.png)
+
+<br>
+
 ![Image Description](assets/readme/images/3.png)
+
+<br>
+
 ![Image Description](assets/readme/images/4.png)
 
 </div>
@@ -59,6 +68,18 @@ Aplikacja została napisana około dwóch lat temu na specjalne życzenie klient
 <details>
 
 <summary>GIFy</summary>
+
+<br>
+
+<div align="center">
+
+![Image Description](assets/readme/gif/1.gif)
+
+<br>
+
+![Image Description](assets/readme/gif/2.gif)
+
+</div>
 
 </details>
 
@@ -78,7 +99,7 @@ Aplikacja zapewnia następujące funkcjonalności:
 
 ## Wykorzystane technologie
 
-This project leverages following major libraries:
+Ten projekt wykorzystuje następujące główne biblioteki:
 
 - **Bloc** do zarządzenia stanami oraz struktury aplikacji: [Bloc on GitHub](https://github.com/felangel/bloc)
 - **very_good_cli** do generacji projektu: [very_good_cli on GitHub](https://github.com/VeryGoodOpenSource/very_good_cli)

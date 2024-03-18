@@ -47,11 +47,17 @@ The app was first written roughly two years ago per client's request, as I was u
 <div align="center">
 
 ![Image Description](assets/readme/images/1.png)
+
 <br>
+
 ![Image Description](assets/readme/images/2.png)
+
 <br>
+
 ![Image Description](assets/readme/images/3.png)
+
 <br>
+
 ![Image Description](assets/readme/images/4.png)
 
 </div>
@@ -61,6 +67,18 @@ The app was first written roughly two years ago per client's request, as I was u
 <details>
 
 <summary>GIFs</summary>
+
+<br>
+
+<div align="center">
+
+![Image Description](assets/readme/gif/1.gif)
+
+<br>
+
+![Image Description](assets/readme/gif/2.gif)
+
+</div>
 
 </details>
 
