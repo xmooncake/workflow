@@ -14,7 +14,7 @@
 Read in different languages:
 <br>
 
-![PL](assets/readme/icons/icons8-poland-32.png)[](./README.POLISH.md) ![EN](./assets/readme/icons/icons8-usa-32.png)[](./README.md)
+![PL](assets/readme/icons/icons8-poland-32.png)[](./README-PL.md) ![EN](./assets/readme/icons/icons8-usa-32.png)[](./README.md)
 
 </div>
 
