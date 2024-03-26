@@ -9,7 +9,7 @@ environment:
 dependencies:
   bloc: ^8.1.2
   cherry_toast: ^1.6.4
-  dio: ^5.4.0
+  dio: ^5.4.2
   dropdown_button2: ^2.3.9
   equatable: ^2.0.5
   flutter:
